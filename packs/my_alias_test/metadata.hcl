@@ -4,9 +4,9 @@ app {
 }
 
 pack {
-  name = "deps_test"
+  name = "my_alias_test"
   description = "This pack tests dependencies"
-  url = "github.com/hashicorp/nomad-pack/fixtures/test_registry/packs/deps_test"
+  url = "github.com/angrycub/test_registry/packs/my_alias_test"
   version = "0.0.1"
 }
 
